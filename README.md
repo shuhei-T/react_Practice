@@ -1,1 +1,1 @@
-# react_Practice
+# 書籍「モダンJavaScriptの基本から始めるReact実践の教科書」
